@@ -61,9 +61,8 @@ The dashboard uses interactive visualizations to make content analysis easier an
 ```text
 Amazon-Prime-Video-Dashboard/
 │
-├── images/
-│   └── prime-video-dashboard.png
-│
+├── prime-video-dashboard.png
+│  
 ├── Amazon_Prime_Video.pbix
 │
 └── README.md
